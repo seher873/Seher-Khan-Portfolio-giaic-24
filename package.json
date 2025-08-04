@@ -1,0 +1,11 @@
+{
+  "name": "seher-khan-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Seher Khan. Skills: HTML, CSS, Tailwind CSS, Next.js, TypeScript, AI, AGNTIC AI Continu.",
+  "scripts": {
+    "start": "lite-server --port=3000"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
