@@ -6,6 +6,6 @@ Welcome to your custom chatbot!
 {
   "name": "Q/A ChatBot",
   "description": "Ask any question, get intelligent answers!",
-  "icon": "/public/logo.png",  # optional - put logo.png inside public/ folder
+  "icon": "logo.png",  # optional - put logo.png inside public/ folder
   "theme": "light"      # optional - can be "light" or "dark"
 }
